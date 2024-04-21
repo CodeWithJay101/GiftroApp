@@ -15,7 +15,7 @@
 ### Requirements for running this webpage
 ##### Must have:
 <ul>
-  <li>WAMPP or XAMPP downloaded in your local system and start up Apache and MySQL servers</li>
+  <li>Start up Apache and MySQL servers</li>
   <li>SQL database to store the database and tables for this webpage (ideally through phpMyAdmin)</li>
 </ul>
 
