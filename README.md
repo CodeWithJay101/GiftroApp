@@ -19,18 +19,20 @@
   <li>SQL database to store the database and tables for this webpage (ideally phpMyAdmin)</li>
 </ul>
 
-### Steps to setup the project
+### Steps to setup the project 
+##### (This step by step guide mainly caters to the Windows OS)
 <ol>
   <li>Make sure to locate the file path where the webpage will run on your local system (depending where your server is located)</li>
   <ul>
     <li>If you are using WAMPP - Your default file path should be 'C:\wamp64\www'</li>
     <li>If you are using XAMPP - Your default file path should be 'C:\xampp\htdocs'</li>
   </ul>
-  <li>After you navigate to this folder, create a new folder called 'webdev'</li>
-  <ul>
-    <li>You can name this folder whatever you like (just remember you will be using this later to access the website e.g. localhost/webdev)</li>
+  <li>After you navigate to this folder, bring up the terminal within this folder path</li>
+<ul>
+    <li>Right click anywhere within the folder and pick the 'Open in Terminal' option</li>
   </ul>
-  <li></li>
+  <li>Within the terminal, type <code>git clone </code>
+  </li>
 </ol> 
 
 ### Webpage Overall UI
