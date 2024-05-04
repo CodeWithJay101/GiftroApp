@@ -11,6 +11,13 @@
   <li>Cart page</li>
   <li>Login & Signup modals</li>
 </ul>
+<p>Tech Stack:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+</ul>
 
 ### Requirements for running this webpage
 ##### Must have:
